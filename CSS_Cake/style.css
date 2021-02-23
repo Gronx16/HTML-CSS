@@ -1,0 +1,30 @@
+.stand1{
+    height: 30px;
+    width: 210px;
+    background-color: gray;
+    border-radius: 10px;
+    position: absolute;
+    top: 700px;
+    left: 900px;
+}
+
+.stand2{
+    height: 170px;
+    width: 30px;
+    background-color: gray;
+    border-radius: 10px;
+    position:absolute;
+    top: -150px;
+    left: 90px;
+}
+
+.stand3{
+    height: 30px;
+    width: 350px;
+    background-color: gray;
+    border-radius: 10px;
+    position:absolute;
+    top: -170px;
+    left: -70px
+}
+
