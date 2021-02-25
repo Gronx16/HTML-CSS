@@ -5,7 +5,31 @@ body{
 }
 
 .face{
-    height: 250px;
-    width: 250px;
+    height: 290px;
+    width: 350px;
     background-color: black;
+    position: absolute;
+    top: 200px;
+    left: 750px;
+    border-radius:50% ;
+}
+
+.white1{
+    height: 190px;
+    width: 190px;
+    background-color:white;
+    position: absolute;
+    top:50px;
+    left:40px;
+    border-radius:50% ;
+}
+
+.white2{
+    height: 190px;
+    width: 190px;
+    background-color:white;
+    position: absolute;
+    top:50px;
+    left:120px;
+    border-radius:50% ;
 }
