@@ -7,7 +7,7 @@ body{
 .panda{
     position: absolute;
     top: 200px;
-    left: 750px;
+    left: 650px;
 }
 
 
@@ -64,7 +64,7 @@ body{
 .leg1{
     height: 110px;
     width: 65px;
-    background-color: rgb(255, 255, 35);
+    background-color: rgb(255, 141, 35);
     border-radius: 50%;
     position: absolute;
     top:450px;
@@ -76,7 +76,7 @@ body{
 .leg2{
     height: 110px;
     width: 65px;
-    background-color: rgb(245, 245, 35);
+    background-color: rgb(255, 141, 35);
     border-radius: 50%;
     position: absolute;
     top:450px;
@@ -125,3 +125,23 @@ body{
     left:5px ;    
 }
 
+.mouth1{
+    height: 35px;
+    width: 75px;
+    background-color:  rgb(255, 141, 35);
+    border-radius:50% ;
+    position: absolute;
+    top:160px;
+    left:135px ;   
+}
+
+.mouth2{
+    height: 40px;
+    width: 55px;
+    background-color:  rgb(255, 141, 35);
+    border-radius:50% ;
+    position: absolute;
+    transform: rotate(90deg);
+    top:170px;
+    left:145px ;   
+}
