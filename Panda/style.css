@@ -48,3 +48,12 @@ body{
     left: ;
     z-index: -1;
 }
+
+.white3{
+    height: 260px;
+    width: 280px;
+    background-color:white;
+    border-radius: 50%;
+    top: -30px;
+    left: 90px;
+}
